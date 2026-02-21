@@ -1,0 +1,22 @@
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/mxbcash.db
+backend/mxbcash-test.db
+*.egg-info/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Static (production build output)
+backend/app/static/
+
+# Editor
+.DS_Store
+*.swp
+*~
+#*
+.#*
